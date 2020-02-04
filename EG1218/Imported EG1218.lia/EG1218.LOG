@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : EG1218.LibPkg
+
+Section : C:\Users\Ryan\Desktop\EG1218.lia
+    Section : PCB Library - EG1218.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SIS On Line 132
+            Warning - 1 : Skipping Token attachedSymbol On Line 199
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*EG1218][Primary] associated with PCAD Component [EG1218] has been renamed to PCB FootPrint [*EG1218_EG1218(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - EG1218.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 103
+        EndSection
+
+        Section : Generating SCH Library - EG1218.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*EG1218][Primary] associated with PCAD Component [EG1218] has been renamed to PCB FootPrint [*EG1218_EG1218(Primary)].
+        EndSection
+    EndSection
+EndSection
