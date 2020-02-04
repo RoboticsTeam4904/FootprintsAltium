@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : C2012X5R1V475M125AC.LibPkg
+
+Section : C:\Users\Ryan\Desktop\C2012X5R1V475M125AC.lia
+    Section : PCB Library - C2012X5R1V475M125AC.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token C2012X5R1V475M125AC On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 167
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - C2012X5R1V475M125AC.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 102
+        EndSection
+
+        Section : Generating SCH Library - C2012X5R1V475M125AC.SchLib
+        EndSection
+    EndSection
+EndSection
